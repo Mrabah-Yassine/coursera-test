@@ -1,4 +1,6 @@
-## Coursera Web Development course Repository
+## Coursera Web Development course Repository (javaScript, HTML, CSS, AJAX)
+
+###Course provided by John Hopkins University
 
 You can use the [editor on GitHub](https://github.com/Mrabah-Yassine/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
